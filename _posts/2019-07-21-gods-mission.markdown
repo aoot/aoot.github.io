@@ -8,12 +8,13 @@ img:
 tags: [God, Resources]
 author:
 ---
-- [IMB](https://www.imb.org/)
+- [ESV.org](https://www.esv.org/Matthew+28/)
+- [IMB - International Mission Board](https://www.imb.org/)
 - [Navigators](https://www.navigators.org/)
-- [StuMo](https://www.stumo.org/)
+- [StuMo - Student Mobolization](https://www.stumo.org/)
 - [Cru](https://www.cru.org/)
 - [The Power of International Education](https://www.iie.org/)
-- [Perspectives](https://www.perspectives.org)
+- [Perspectives Course](https://www.perspectives.org)
 - [Launch Global](https://www.launchglobal.org/)
 - [The Traveling Team](http://www.thetravelingteam.org/)
 - [No Place Left](https://noplaceleft.net/)
