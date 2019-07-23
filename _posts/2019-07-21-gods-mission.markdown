@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  God's Mission
-comment: false
+comment: true
 date:   2019-07-21
 description: 
 imgUrl: https://www.covenantseminary.edu/resources/wp-content/uploads/sites/5/2014/12/Resources-Artwork-Header-Courses-GodsMission.jpg
