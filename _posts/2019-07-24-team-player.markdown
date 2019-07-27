@@ -4,7 +4,7 @@ title:  Being a Team Player
 comment: true
 date:   2019-07-24
 description: 
-imgUrl: http://media.arkansasonline.com/img/photos/2012/06/11/arkansas_dogpile_following_baylor_win_t630.jpg?30004eeab9fb5f824ff65e51d525728c55cf3980
+imgUrl: https://lh3.google.com/u/2/d/1f2mgV8Qy04xazQw8sJch_o82hyI6nHyO=w2538-h1378-iv1
 img: 
 tags: [Blog, Work]
 author:
