@@ -4,7 +4,7 @@ title:  Delegate Results not Tasks
 comment: true
 date:   2019-07-25
 description: 
-imgUrl: https://lh5.googleusercontent.com/sio3L8j6Tf_MZpm-pUwirxNwV9sZiYkZSa2RjOeJiN4H-BE8tbWfrmuheD8ZT2NuJsL_9m9BuWsdgrOeydFW=w2538-h1378
+imgUrl: https://lh3.google.com/u/2/d/1vVFeGnuvaXJ9_jhWeMzVw0DzgGcBpgEm=w2538-h1378-iv1
 img: 
 tags: [Blog, Work, My Thoughts]
 author:
