@@ -4,7 +4,7 @@ title:  God's Mission
 comment: true
 date:   2019-07-21
 description: 
-imgUrl: https://www.covenantseminary.edu/resources/wp-content/uploads/sites/5/2014/12/Resources-Artwork-Header-Courses-GodsMission.jpg
+imgUrl: https://lh3.google.com/u/2/d/1KKMI72umsFWpFhSa0p7NnuNmUFOrrVGa=w2538-h1378-iv1
 img: 
 tags: [God, Resources]
 author:
