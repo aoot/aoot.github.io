@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  hope in The Force
+title:  Hope in The Force
 comment: true
 date:   2019-07-27
 description: 
