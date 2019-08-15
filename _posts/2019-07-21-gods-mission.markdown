@@ -24,3 +24,4 @@ author:
 - [Joshua Project](https://joshuaproject.net/)
 - [Persecution.org](https://www.persecution.org/)
 - [Open Doors](https://www.opendoors.org/)
+- [Desiring God](https://www.desiringgod.org/)
