@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  God's Mission
-comment: true
+comment: false
 date:   2019-07-21
 description: 
 imgUrl: https://lh3.google.com/u/2/d/1KKMI72umsFWpFhSa0p7NnuNmUFOrrVGa=w2538-h1378-iv1

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Tracking Results to Outcomes
-comment: true
+comment: false
 date:   2019-08-14
 description: 
 imgUrl: https://lh3.google.com/u/1/d/1gu6TsHkfJ-Ifk-tiZqyznB-cU-ijxmwE=w2560-h1248-iv1

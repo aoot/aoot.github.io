@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Delegate Results not Tasks
-comment: true
+comment: false
 date:   2019-07-25
 description: 
 imgUrl: https://lh3.google.com/u/2/d/1vVFeGnuvaXJ9_jhWeMzVw0DzgGcBpgEm=w2538-h1378-iv1
