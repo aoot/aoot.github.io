@@ -36,5 +36,15 @@ Thus, I suppose the differences between activities and results are that results 
 
 ## Logical Presentation and Documentation
 
-Using frameworks instead of words to communicate is an effective and even crucial to ensure there is a common ground which everyone can stand on. For example, using the framework of culture vs perforamcne to measure a team member condneses the various parameters and comments into two axis for consistent comparisons acorss different team members and also longitudinal comparisons. In the same way, change managment has a frameowrk of outlineing and measuring against the categories of challenges, outcomes, results, timeline/resource, impact/value, and next steps (there may be some that I missed out and would not remember until checking my notes.).
+Using frameworks instead of words to communicate is an effective and even crucial to ensure there is a common ground which everyone can stand on. For example, using the framework of culture vs perforamcne to measure a team member condneses the various parameters and comments into two axis for consistent comparisons acorss different team members and also longitudinal comparisons. In the same way, change managment has a frameowrk of outlineing and measuring against the categories of challenges, outcomes, results, timeline/resource, impact/value, and next steps (there may be some that I missed out and would not remember until checking my notes.)
+
+### Format of the Presentation
+
+- Background / Challenge
+- Opportunity / Challenge
+- [Rec] Action
+- Timeline / Resource
+- Anticipated Results
+- Next Steps
+  - or "What I am going to do tomorrow"
 
