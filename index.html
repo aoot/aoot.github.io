@@ -14,7 +14,7 @@ layout: home-page
       {% endif %}
 
       <div class="post-card-body">
-        <small><span>| {{ post.date | date_to_string }}</span></small>
+        <small><div>{{ post.date | date_to_string }}</div></small>
         {% for tag in post.tags %}
         <a href="{{site.baseurl}}/tags#{{tag}}" class="tag">|&#32;{{ tag }}</a>
         {% endfor %}
