@@ -28,9 +28,9 @@ I didn't feel offended by this, however, it was a great revelation to me that wh
 ## Reflection
 - +3 Staying active
 - +2 DNT
-- +2 Focused </p>
+- +2 Focused
 - -5 Fitting work into God's plan instead of fitting God into work!
 - -2 Organization
   - Can improve on organization to keep track of what is needed and requested of me on a recurring basis during each week instead of relying on a single hiearchy of task list with categorizations (in Outlook).
-- -1 Work life balance, coming on time, and leaving on time. </p>
+- -1 Work life balance, coming on time, and leaving on time.
 - (Would like to) +1 Discipline
