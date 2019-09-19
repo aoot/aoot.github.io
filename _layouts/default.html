@@ -6,17 +6,6 @@
   {% include javascripts.html %}
   {% include analytics.html %}
 
-  <!-- CMS -->
-  <script>
-    if (window.netlifyIdentity) {
-      window.netlifyIdentity.on("init", user => {
-        if (!user) {
-          window.netlifyIdentity.on("login", () => {
-            document.location.href = "/admin/";
-          });
-        }
-      });
-    }
-  </script>
+  {% include cms_netlify.html %}
 </body>
 </html>
