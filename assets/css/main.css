@@ -1074,7 +1074,7 @@ pre code {
   position: relative;
   list-style: none;
   float: left;
-  width: 50%;
+  width: 30%;
   -webkit-transition: all .3s;
   transition: all .3s;
 }
