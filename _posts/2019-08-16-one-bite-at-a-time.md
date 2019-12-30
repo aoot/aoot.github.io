@@ -4,7 +4,7 @@ title:  One Bite at a Time
 comment: false
 date:   2019-08-16
 description: 
-imgUrl: 
+imgUrl: # Removed Google Drive image URL
 img: 
 tags: [Blog, My Thoughts, Work]
 author:

@@ -4,7 +4,7 @@ title:  One of the Toughest Job
 comment: false
 date:   2019-07-26
 description: 
-imgUrl: https://lh3.google.com/u/2/d/1MxmMkA5yd_yZvYWoGJFbFydys44m9k0y=w2538-h878-iv1
+imgUrl: # Removed Google Drive image URL
 img: 
 tags: [Blog, Work, My Thoughts, God]
 author:

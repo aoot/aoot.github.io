@@ -10,3 +10,7 @@ git push --delete <remote_name> <branch_name>
 git branch -d <branch_name>
 
 ```
+
+# To Do
+  - [] Understand gulp files
+  - [] Install local Jekyll environment to develop Netlify CMS

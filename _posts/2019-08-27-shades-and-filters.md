@@ -4,7 +4,7 @@ title:  Shades and Filters
 comment: false
 date:   2019-08-27
 description: 
-imgUrl: 
+imgUrl: # Removed Google Drive image URL
 img: 
 tags: [Blog]
 author:

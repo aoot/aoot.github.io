@@ -4,7 +4,7 @@ title:  God's Mission
 comment: false
 date:   2019-07-21
 description: 
-imgUrl: https://lh3.google.com/u/2/d/1KKMI72umsFWpFhSa0p7NnuNmUFOrrVGa=w2538-h1378-iv1
+imgUrl: # Removed Google Drive image URL
 img: 
 tags: [God, Resources]
 author:

@@ -4,7 +4,7 @@ title:  That Was Not the Intention
 comment: false
 date:   2019-08-19
 description: 
-imgUrl: 
+imgUrl: # Removed Google Drive image URL
 img: 
 tags: [Blog, Work]
 author:

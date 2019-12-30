@@ -4,7 +4,7 @@ title:  Hope in The Force
 comment: false
 date:   2019-07-27
 description: 
-imgUrl: https://lh3.google.com/u/2/d/1WHboRkVOP5NGizyij5XdF8zOHFwdsEBy=w2538-h1378-iv1
+imgUrl: # Removed Google Drive image URL
 img: 
 tags: [Blog, My Thoughts]
 author:
