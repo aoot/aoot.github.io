@@ -29,5 +29,3 @@ This power explains itself. Would you rather trust something who went to Johns H
 
 ## Conclusion
 In conclusion, having an understanding of the different powers observed in regular human interactions provides a way of navigating the squishy inter-human [yes, third person] dynamics. And, different weightings of each of the powers are required in different situations.
-
-### Expertise Power
