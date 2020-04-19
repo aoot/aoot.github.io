@@ -2,7 +2,7 @@ backend:
   name: github
   repo: aoot/aoot.github.io
   branch: master
-  site_domain: relaxed-stonebraker-ef7e59.netlify.com
+  site_domain: relaxed-stonebraker-ef7e59.netlify.net
 
 # Media Folder location
 media_folder: "assets/img"
