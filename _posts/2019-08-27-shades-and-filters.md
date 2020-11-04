@@ -5,7 +5,7 @@ comment: false
 date:   2019-08-27
 description: 
 imgUrl: # Removed Google Drive image URL
-img: 
+img: yosh-ginsu.jpg
 tags: [Blog]
 author:
 ---
