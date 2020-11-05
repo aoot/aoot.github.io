@@ -1066,7 +1066,7 @@ pre code {
 
 /* = = = = = = = = = = Post-Card Styles = = = = = = = = = = */
 .post-card-box {
-  margin: 200px 0 200px; /* Testing: Adjusting box height */
+  margin: 100px 0 100px; /* Adjusts the spacing between the post-card-box group's top and bottom against the title and foot. */
   padding: 0;
 }
 
@@ -1075,7 +1075,7 @@ pre code {
   position: relative;
   list-style: none;
   float: left;
-  width: 50%;
+  width: 30%; /* Testing the width variable to 30% */
   -webkit-transition: all .3s;
   transition: all .3s;
 }
