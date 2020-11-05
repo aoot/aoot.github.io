@@ -1066,7 +1066,7 @@ pre code {
 
 /* = = = = = = = = = = Post-Card Styles = = = = = = = = = = */
 .post-card-box {
-  margin: 100px 0 100px;
+  margin: 200px 0 200px; /* Testing: Adjusting box height */
   padding: 0;
 }
 
@@ -1075,7 +1075,6 @@ pre code {
   position: relative;
   list-style: none;
   float: left;
-  height: 200px; /* Testing box height */
   width: 50%;
   -webkit-transition: all .3s;
   transition: all .3s;
