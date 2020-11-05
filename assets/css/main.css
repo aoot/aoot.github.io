@@ -1075,7 +1075,6 @@ pre code {
   position: relative;
   list-style: none;
   float: left;
-  height: 100px /* Adding box height information to test. */
   width: 50%;
   -webkit-transition: all .3s;
   transition: all .3s;
