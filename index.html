@@ -5,6 +5,8 @@ layout: home-page
   {% for post in paginator.posts %}
   {% if post.draft != true %}   <!-- If draft = TRUE then post won't be published. -->
     <li>
+      
+      <!-- Adding image to the post-card box -->
       <div class="post-card">
         {% if post.imgUrl %}
           <a href="{{post.url | prepend: site.baseurl}}" class="post-card-image" style="background-image: url( {{post.imgUrl}} )">
@@ -13,7 +15,8 @@ layout: home-page
           <a href="{{post.url | prepend: site.baseurl}}" class="post-card-image" style="background-image: url( {{ "/assets/img/" | prepend: site.baseurl | append : post.img}} )">
           </a>
         {% endif %}
-
+        
+        <!-- Adding tags and title (with link) to the post-card box -->
         <div class="post-card-body">
           <small><div>{{ post.date | date_to_string }}</div></small>
           {% for tag in post.tags %}
