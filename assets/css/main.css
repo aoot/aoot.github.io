@@ -1065,12 +1065,13 @@ pre code {
 }
 
 /* = = = = = = = = = = Post-Card Styles = = = = = = = = = = */
+/* The entire ordered list */
 .post-card-box {
   margin: 100px 0 100px; /* Adjusts the spacing between the post-card-box group's top and bottom against the title and foot. */
   padding: 0;
 }
 
-/* Style for homepage post-card-box, where to update width and height information.  */
+/* Each post card box is an listed item. */
 .post-card-box li {
   position: relative;
   list-style: none;
@@ -1082,17 +1083,20 @@ pre code {
 }
 
 .post-card-box li:hover {
-  opacity: 0.9;
+  opacity: 0.75;
 }
 
+/* The div that contains post card image */
 .post-card {
   position: relative;
+  min-height: 200px;   /* Adjusting the post card height */
 }
 
+/* Post card image, for each image. */
 .post-card .post-card-image {
   display: block;
   width: 100%;
-  min-height: 100px;   /* Height of the box */
+  /* min-height: 200px;  /* Height of the box */
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
