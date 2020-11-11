@@ -1082,23 +1082,29 @@ pre code {
   transition: all .3s;
 }
 
-.post-card-box li:hover {
+/* .post-card-box li:hover {
   opacity: 0.75;
-}
+} */
 
 /* The div that contains post card image */
 .post-card {
   position: relative;
+  /* If min-height is defined here, the images are lost. */
 }
 
 /* Post card image, for each image. */
 .post-card .post-card-image {
   display: block;
+  opacity: 0.5;
   width: 100%;
   min-height: 200px;   /* Adjusting the post card height */
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
+}
+
+.post-card .post-card-image:hover {
+  opacity: 0.7;
 }
 
 .post-card .post-card-image::after {
