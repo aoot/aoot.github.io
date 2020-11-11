@@ -1089,14 +1089,13 @@ pre code {
 /* The div that contains post card image */
 .post-card {
   position: relative;
-  min-height: 200px;   /* Adjusting the post card height */
 }
 
 /* Post card image, for each image. */
 .post-card .post-card-image {
   display: block;
   width: 100%;
-  /* min-height: 200px;  /* Height of the box */
+  min-height: 200px;   /* Adjusting the post card height */
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
