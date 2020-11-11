@@ -1075,7 +1075,8 @@ pre code {
   position: relative;
   list-style: none;
   float: left;
-  width: 30%; /* Testing the width variable to 30% */
+  width: 100%; /* Testing the width variable to 30% */
+  margin: 5px;
   -webkit-transition: all .3s;
   transition: all .3s;
 }
@@ -1091,7 +1092,7 @@ pre code {
 .post-card .post-card-image {
   display: block;
   width: 100%;
-  min-height: 200px;   /* Height of the box */
+  min-height: 100px;   /* Height of the box */
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
