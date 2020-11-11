@@ -1076,7 +1076,7 @@ pre code {
   position: relative;
   list-style: none;
   float: left;
-  width: 45%; /* Testing the width variable to 30% */ /* This detemrines how many columns*/
+  width: 100%; /* Testing the width variable to 30% */ /* This detemrines how many columns*/
   margin: 3px;
   -webkit-transition: all .3s;
   transition: all .3s;
