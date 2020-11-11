@@ -18,7 +18,7 @@ layout: home-page
         
         <!-- Adding tags and title (with link) to the post-card box -->
         <div class="post-card-body">
-          <small><div>{{ post.date | date_to_string }}</div></small>
+          <small><div class="date">{{ post.date | date_to_string }}</div></small>
           {% for tag in post.tags %}
           <a href="{{site.baseurl}}/tags#{{tag}}" class="tag">|&#32;{{ tag }}</a>
           {% endfor %}
